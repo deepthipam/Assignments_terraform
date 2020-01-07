@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 2618-B755
+
+ Directory of C:\Users\ISHAN&ARJUN\Desktop\MyProject
+
+01/06/2020  10:25 PM    <DIR>          .
+01/06/2020  10:25 PM    <DIR>          ..
+01/06/2020  10:25 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  752,117,194,752 bytes free
